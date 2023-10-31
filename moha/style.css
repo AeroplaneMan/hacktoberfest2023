@@ -2,3 +2,11 @@ h2 {
     color: red;
     font-size: 20px;
 }
+
+.very-scary {
+    color: blue;
+}
+
+#ghosting {
+    font-size: 15px;
+}
